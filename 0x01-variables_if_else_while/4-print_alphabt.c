@@ -17,6 +17,6 @@ int main(void)
 		}
 		x++;
 	}
-	putcher('\n');
+	putchar('\n');
 	return (0);
 }
