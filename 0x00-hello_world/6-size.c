@@ -3,7 +3,7 @@
 /**
  * main - entry point
  * program prints size of different data type
- * 
+ *
  * Return: value is always 0
 */
 int main(void)
