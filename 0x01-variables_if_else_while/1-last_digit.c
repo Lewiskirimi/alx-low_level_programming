@@ -4,7 +4,8 @@
 /**
  * main - entry point
  * print random number as specified
- * 
+ * if statements evaluate condition
+ *
  * Return: always 0
 */
 int main(void)
