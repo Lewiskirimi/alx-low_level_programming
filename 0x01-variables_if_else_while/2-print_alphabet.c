@@ -5,10 +5,10 @@
  *
  * Return: value 0
 */
-int main(void) 
+int main(void)
 {
 	char x = 97;
-	while(x <= 122)
+	while (x <= 122)
 	{
 		putchar(x);
 		x++;
