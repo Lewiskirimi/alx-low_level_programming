@@ -9,6 +9,7 @@ int main(void)
 {
 	char x = 97;
 	while (x <= 122)
+
 	{
 		putchar(x);
 		x++;
