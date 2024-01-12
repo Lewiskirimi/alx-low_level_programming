@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
-/** 
+/**
  * main - Entry point
  * program to print if a random number is positive. negative or zero
  * if, else if and else statements for conditions
