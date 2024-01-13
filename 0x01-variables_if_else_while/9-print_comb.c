@@ -19,6 +19,6 @@ int main(void)
 		}
 		x++;
 	}
-	putchar('$');
+	putchar('\n');
 	return (0);
 }
