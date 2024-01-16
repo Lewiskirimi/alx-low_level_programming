@@ -1,4 +1,4 @@
-#include "math.h"
+#include "main.h"
 /**
  * print_alphabet_x10 - creates alphabet 10 times
  *
@@ -10,11 +10,11 @@ void print_alphabet_x10(void)
 
 	for (x = 1; x <= 10; x++)
 	{
-		char ch;
+		char c;
 
-		for (ch = 'a'; ch <= 'z'; ch++)
+		for (c = 'a'; c <= 'z'; c++)
 		{
-			_putchar(ch);
+			_putchar(c);
 		}
 	_putchar('\n');
 	}
