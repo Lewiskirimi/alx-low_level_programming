@@ -2,7 +2,7 @@
 /**
  * print_alphabet - creates the alphabet
  *
- * Return: voi
+ * Return: void
  */
 void print_alphabet(void)
 {
