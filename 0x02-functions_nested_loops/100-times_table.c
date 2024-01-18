@@ -1,9 +1,10 @@
 #include "main.h"
 #include <stdio.h>
 /**
+ * print_times_tables - multiplication table
+ * @n: intager
  *
- *
- *
+ * Return: void
  */
 void print_times_table(int n)
 {
@@ -18,7 +19,7 @@ void print_times_table(int n)
 				x = i * j;
 				if (j == 0)
 				{
-					printf("%3d, ", x);
+					printf("%d, ", x);
 				}
 				else
 				{
