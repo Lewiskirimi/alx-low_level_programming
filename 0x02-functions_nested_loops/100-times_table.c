@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdio.h>
 /**
- * print_times_tables - multiplication table
+ * print_times_tables - i and j = x
  * @n: intager
  *
  * Return: void
