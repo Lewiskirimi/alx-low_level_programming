@@ -3,6 +3,7 @@
  * _strncat - function name
  * @dest: string
  * @src: string
+ * @n: intenger
  *
  * Return: dest
  */
