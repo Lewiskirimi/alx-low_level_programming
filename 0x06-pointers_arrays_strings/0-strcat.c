@@ -1,8 +1,10 @@
 #include "main.h"
 /**
- * *_strcat - function name
- * @*dest: string
- * @*src: string
+ * _strcat - function name
+ * @dest: string
+ * @src: string
+ *
+ * Return: return value dest
  */
 char *_strcat(char *dest, char *src)
 {
